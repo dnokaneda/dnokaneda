@@ -5,7 +5,7 @@
 
 <br />
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnokaneda&show_icons=true&bg_color=00000000)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnokaneda&show_icons=true&bg_color=00000000)
 
 ### Tecnologias que uso em meus trabalhos
 
