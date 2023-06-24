@@ -4,18 +4,21 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-rocha-ab57a984/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dnocamargo) [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dnokaneda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYgFrv2D-QtkpK5UphqqLVQ) [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://meusmangas.com.br/)
 
 <br />
-<div style="display: flex">
-  <div style="padding: 0 5px">
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnokaneda&show_icons=true&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
+<table>
+  <tr>
+  <td style="padding: 0 5px">
 
-  </div>
-  <div style="padding: 0 5px">
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnokaneda&show_icons=true&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
+    
+  </td>    
+  <td style="padding: 0 5px">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnokaneda&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
-
-  </div>
-</div>
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnokaneda&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
+  
+  </td>    
+  </tr>
+</table>
 
 ### Tecnologias que uso em meus trabalhos:
 
