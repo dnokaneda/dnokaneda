@@ -5,21 +5,12 @@
 
 <br />
 
-<table>
-  <tr>
-  <td style="padding: 0 5px">
-
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnokaneda&show_icons=true&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnokaneda&show_icons=true&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
     
-  </td>    
-  <td style="padding: 0 5px">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnokaneda&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
 
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnokaneda&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=171717&text_color=71717a&title_color=60a5fa&border_color=60a5fa)
+<br />
   
-  </td>    
-  </tr>
-</table>
-
 ### Tecnologias que uso em meus trabalhos:
 
 <div style="display: inline">
