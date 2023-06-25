@@ -28,3 +28,10 @@
 ### Desenvolvedor e fundador do portal Meus Mangás.
 
 #### O portal de mangás publicados no Brasil. Gerencie sua coleção de Mangás gratuitamente. Receba notificações das últimas novidades das editoras
+
+### Últimos artigos:
+<br />
+<ul>
+    <li><a href="https://dev.to/dnokaneda/testes-em-aplicacoes-react-com-vite-vitest-386l">Testes em aplicações React com VITE + VITEST</a></li>
+    <li><a href="https://dev.to/dnokaneda/react-hooks-useref-no7">React Hooks: useRef</a></li>
+</ul>
